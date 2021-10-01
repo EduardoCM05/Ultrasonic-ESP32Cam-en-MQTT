@@ -1,7 +1,8 @@
 /*
  * Conexión básica por MQTT del NodeMCU
  * por: Eduardo Cortez
- * Fecha: 28 de julio de 2021
+ * Fecha: 01 de Octibre de 2021
+ * Basado en el programa MQQTT Basic ESP32CAM elaborado por Hugo Escalpelo
  * 
  * Este programa envía datos  por Internet a través del protocolo MQTT. Para poder
  * comprobar el funcionamiento de este programa, es necesario conectarse a un broker
@@ -11,7 +12,7 @@
  * Componente     PinESP32CAM     Estados lógicos
  * ledStatus------GPIO 33---------On=>LOW, Off=>HIGH
  * ledFlash-------GPIO 4----------On=>HIGH, Off=>LOW
- *  * HC-SR04-VCC----VCC-FTID
+ * HC-SR04-VCC----VCC-FTID
  * HC-SR04-GND----GND-TDID
  * HC-SR04-Trig---GPIO 14
  * HC-SR04-Echo---GPIO 15
