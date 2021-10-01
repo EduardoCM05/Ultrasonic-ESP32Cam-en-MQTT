@@ -1,7 +1,7 @@
 /*
  * Conexión básica por MQTT del NodeMCU
  * por: Eduardo Cortez
- * Fecha: 01 de Octibre de 2021
+ * Fecha: 01 de Octubre de 2021
  * Basado en el programa MQQTT Basic ESP32CAM elaborado por Hugo Escalpelo
  * 
  * Este programa envía datos  por Internet a través del protocolo MQTT. Para poder
